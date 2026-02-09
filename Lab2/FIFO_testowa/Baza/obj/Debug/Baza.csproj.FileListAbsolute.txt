@@ -1,0 +1,10 @@
+C:\Users\sagata\source\repos\FIFO_testowa\Baza\bin\Debug\Baza.exe.config
+C:\Users\sagata\source\repos\FIFO_testowa\Baza\bin\Debug\Baza.exe
+C:\Users\sagata\source\repos\FIFO_testowa\Baza\bin\Debug\Baza.pdb
+C:\Users\sagata\source\repos\FIFO_testowa\Baza\bin\Debug\Biblioteka.dll
+C:\Users\sagata\source\repos\FIFO_testowa\Baza\bin\Debug\Biblioteka.pdb
+C:\Users\sagata\source\repos\FIFO_testowa\Baza\obj\Debug\Baza.csprojAssemblyReference.cache
+C:\Users\sagata\source\repos\FIFO_testowa\Baza\obj\Debug\Baza.csproj.CoreCompileInputs.cache
+C:\Users\sagata\source\repos\FIFO_testowa\Baza\obj\Debug\Baza.csproj.CopyComplete
+C:\Users\sagata\source\repos\FIFO_testowa\Baza\obj\Debug\Baza.exe
+C:\Users\sagata\source\repos\FIFO_testowa\Baza\obj\Debug\Baza.pdb

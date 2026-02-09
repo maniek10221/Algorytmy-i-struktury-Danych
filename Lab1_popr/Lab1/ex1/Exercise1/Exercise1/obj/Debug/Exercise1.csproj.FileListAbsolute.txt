@@ -1,0 +1,20 @@
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
+C:\Users\STUDENTUM\Desktop\cofta\cofta\Lab1\Lab1\ex1\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\STUDENTUM\Desktop\cofta\cofta\Lab1\Lab1\ex1\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\STUDENTUM\Desktop\cofta\cofta\Lab1\Lab1\ex1\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\STUDENTUM\Desktop\cofta\cofta\Lab1\Lab1\ex1\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\STUDENTUM\Desktop\cofta\cofta\Lab1\Lab1\ex1\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTUM\Desktop\cofta\cofta\Lab1\Lab1\ex1\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\STUDENTUM\Desktop\cofta\cofta\Lab1\Lab1\ex1\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
+C:\Users\manie\Downloads\Lab1_Manikowska81059\Lab1\ex1\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\manie\Downloads\Lab1_Manikowska81059\Lab1\ex1\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\manie\Downloads\Lab1_Manikowska81059\Lab1\ex1\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\manie\Downloads\Lab1_Manikowska81059\Lab1\ex1\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
+C:\Users\manie\Downloads\Lab1_Manikowska81059\Lab1\ex1\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\manie\Downloads\Lab1_Manikowska81059\Lab1\ex1\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\manie\Downloads\Lab1_Manikowska81059\Lab1\ex1\Exercise1\Exercise1\bin\Debug\Exercise1.pdb

@@ -1,0 +1,35 @@
+C:\Users\sagata\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\sagata\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\sagata\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\sagata\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojAssemblyReference.cache
+C:\Users\sagata\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\sagata\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\sagata\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\Sebastian\Downloads\Kursy\algo\2022zima\Lab4\Lab4bStart\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\Sebastian\Downloads\Kursy\algo\2022zima\Lab4\Lab4bStart\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\Sebastian\Downloads\Kursy\algo\2022zima\Lab4\Lab4bStart\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\Sebastian\Downloads\Kursy\algo\2022zima\Lab4\Lab4bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojAssemblyReference.cache
+C:\Users\Sebastian\Downloads\Kursy\algo\2022zima\Lab4\Lab4bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\Kursy\algo\2022zima\Lab4\Lab4bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\Sebastian\Downloads\Kursy\algo\2022zima\Lab4\Lab4bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\user\Downloads\7X2024\pobr\Kursy\algo\2024zima\Lab5\st\Lab5bStart\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\user\Downloads\7X2024\pobr\Kursy\algo\2024zima\Lab5\st\Lab5bStart\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\user\Downloads\7X2024\pobr\Kursy\algo\2024zima\Lab5\st\Lab5bStart\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\user\Downloads\7X2024\pobr\Kursy\algo\2024zima\Lab5\st\Lab5bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\7X2024\pobr\Kursy\algo\2024zima\Lab5\st\Lab5bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\7X2024\pobr\Kursy\algo\2024zima\Lab5\st\Lab5bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\user\Downloads\7X2024\pobr\Kursy\algo\2024zima\Lab5\st\Lab5bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\manie\Downloads\LabDijkstraStart (1)\Lab5bStart\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\manie\Downloads\LabDijkstraStart (1)\Lab5bStart\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\manie\Downloads\LabDijkstraStart (1)\Lab5bStart\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\manie\Downloads\LabDijkstraStart (1)\Lab5bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\manie\Downloads\LabDijkstraStart (1)\Lab5bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\manie\Downloads\LabDijkstraStart (1)\Lab5bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\manie\Downloads\LabDijkstraStart (1)\Lab5bStart\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\manie\OneDrive\Pulpit\Poprawione zadania\Lab5_81059_popr\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\manie\OneDrive\Pulpit\Poprawione zadania\Lab5_81059_popr\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\manie\OneDrive\Pulpit\Poprawione zadania\Lab5_81059_popr\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\manie\OneDrive\Pulpit\Poprawione zadania\Lab5_81059_popr\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\manie\OneDrive\Pulpit\Poprawione zadania\Lab5_81059_popr\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\manie\OneDrive\Pulpit\Poprawione zadania\Lab5_81059_popr\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\manie\OneDrive\Pulpit\Poprawione zadania\Lab5_81059_popr\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
